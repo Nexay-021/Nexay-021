@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Lazar
+
+Software developer based in Vienna, Austria, focused on JavaScript and practical web applications.
+
+I enjoy turning ideas into working applications and developing my skills through hands-on projects.
+
+### Projects
+
+- **ScoreTracker V3** — Project details and source code coming soon.
+- **Wiener Linien Dashboard** — Project details and source code coming soon.
 
 <!--
 **Nexay-021/Nexay-021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
