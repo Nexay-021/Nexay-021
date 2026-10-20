@@ -6,8 +6,9 @@ I enjoy turning ideas into working applications and developing my skills through
 
 ### Projects
 
-- **ScoreTracker V3** — Project details and source code coming soon.
-- **Wiener Linien Dashboard** — Project details and source code coming soon.
+- **[Wiener Linien Dashboard](https://github.com/Nexay-021/wiener-linien-dashboard)** — A React application displaying real-time tram departures, delays, and route information using the Wiener Linien OGD API.
+
+- **[ScoreTracker](https://github.com/Nexay-021/scoretracker)** — A mobile-first scorekeeping application built with vanilla JavaScript and packaged for Android using Capacitor.
 
 <!--
 **Nexay-021/Nexay-021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
