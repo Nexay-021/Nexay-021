@@ -1,26 +1,51 @@
-# Hi, I'm Lazar
+# Hi, I'm Lazar!
 
-Software developer based in Vienna, Austria, focused on JavaScript and practical web applications.
+I'm an aspiring software developer based in Vienna, Austria, currently working towards transitioning into software development professionally.
 
-I enjoy turning ideas into working applications and developing my skills through hands-on projects.
+I enjoy taking ideas from concept to working applications — planning functionality, implementing features, solving technical problems, and continuously improving what I've built.
 
-### Projects
+My long-term goal is to become a well-rounded software developer with both frontend and backend expertise.
 
-- **[Wiener Linien Dashboard](https://github.com/Nexay-021/wiener-linien-dashboard)** — A React application displaying real-time tram departures, delays, and route information using the Wiener Linien OGD API.
+## Technologies & Skills
 
-- **[ScoreTracker](https://github.com/Nexay-021/scoretracker)** — A mobile-first scorekeeping application built with vanilla JavaScript and packaged for Android using Capacitor.
+**Languages:** JavaScript, Python, HTML, CSS
 
-<!--
-**Nexay-021/Nexay-021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend:** React, Responsive Design, DOM Manipulation
 
-Here are some ideas to get you started:
+**Tools & Concepts:** Git, GitHub, REST APIs, Asynchronous JavaScript, API Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently Learning:** Backend Development with Python and FastAPI, Databases (MongoDB and SQL)
+
+## Featured Projects
+
+### [Wiener Linien Dashboard](https://github.com/Nexay-021/wiener-linien-dashboard)
+
+A responsive React application displaying real-time departure information for Vienna's tram line 1 using the Wiener Linien Open Government Data API.
+
+**Technologies:** React, JavaScript, CSS, Vite, REST API
+
+**Highlights:**
+- Real-time API integration and automatic data refresh
+- Reusable React components
+- Responsive layout for desktop and mobile
+- Asynchronous data handling, debugging, and error management
+
+### [ScoreTracker](https://github.com/Nexay-021/scoretracker)
+
+A mobile-first scorekeeping application for board games and multiplayer activities, developed with vanilla JavaScript and adapted for Android using Capacitor.
+
+**Technologies:** HTML, CSS, JavaScript, Capacitor
+
+**Highlights:**
+- Dynamic player management and score tracking
+- Interactive interface with player customization
+- Responsive design for mobile devices
+- Android integration and on-device testing
+
+## What I'm Working Towards
+
+I'm continuously expanding my programming knowledge through structured learning and independent projects.
+
+My current focus is on strengthening my backend and database skills while developing the experience needed to build complete applications independently.
+
+I'm particularly interested in opportunities where I can contribute to real software projects, collaborate with experienced developers, and continue growing professionally.
